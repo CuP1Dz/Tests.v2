@@ -9,7 +9,7 @@ const ApiKey = "aXNDSVgxUTNBWmR1VGtuUlVhQlUzZ0J6ZXVZZFhXQktfMTE2Mjk1"
 
 const account = { 
   username: 'kondrawka174@gmail.com', 
-  password: 'kondrawka174' 
+  password: '' 
 };
 
 async function auth(page){
